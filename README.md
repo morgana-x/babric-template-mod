@@ -1,1 +1,2 @@
-My personal template for StationAPI mods
+# Mod name
+Mod description here
